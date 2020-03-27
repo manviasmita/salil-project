@@ -33,3 +33,12 @@
 ## Steps tp clone code for new users 
 
 # 'git clone https://github.com/manviasmita/salil-project.git'
+
+
+#### covention 
+
+# introducing tortoise tool for git management 
+# browser to this url 
+    https://tortoisegit.org/download/
+
+    dowload and install it 
